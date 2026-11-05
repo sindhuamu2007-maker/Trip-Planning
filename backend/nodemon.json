@@ -1,0 +1,23 @@
+{
+  "watch": [
+    "server.js",
+    "config/",
+    "controllers/",
+    "middleware/",
+    "models/",
+    "routes/",
+    "services/",
+    "sockets/",
+    "utils/",
+    "validators/"
+  ],
+  "ignore": [
+    "node_modules",
+    "*.test.js",
+    ".mongo_data",
+    "*.log",
+    "*.lock"
+  ],
+  "ext": "js,json",
+  "delay": 1000
+}

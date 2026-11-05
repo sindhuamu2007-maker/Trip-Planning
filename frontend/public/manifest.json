@@ -1,0 +1,16 @@
+{
+  "short_name": "TripSync AI",
+  "name": "TripSync AI - Real-Time Collaborative Travel Planning",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#F7F9FC",
+  "theme_color": "#14213D",
+  "display": "standalone",
+  "orientation": "portrait"
+}
