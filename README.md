@@ -1,4 +1,4 @@
-# TripSync AI ✈️🌍
+# TripSync AI 
 
 > **Plan together. Travel smarter. Explore better.**
 
@@ -178,6 +178,4 @@ npm run build
 - Never commit `.env` files, passwords, or production secrets.
 - Check external travel information with current, authoritative sources before relying on it.
 
-## License
 
-No license has been specified yet. Add a `LICENSE` file if you want to define how others may use, modify, or distribute this project.
